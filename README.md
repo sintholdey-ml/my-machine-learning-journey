@@ -1,5 +1,5 @@
 # My-Machine-Learning-Journey
-This repository documents my journey of learning Machine Learning from the basics, including notes, experiments, and small projects.
+This repository documents my journey of learning Machine Learning from the basics, including notes, experiments and small projects.
 
 ## 🧠 Topics Covered
 - Python for ML
